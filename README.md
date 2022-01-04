@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 ## GiftSearchApp
-- Fredy Julmer Gallegos Quiñones
+- Fredy Gallegos Quiñones 120886
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
