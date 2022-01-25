@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { GiftSearchApp } from './GiftSearchApp';
+import { DogApp } from './DogApp';
 import './index.css';
 
+
 ReactDOM.render(
-    <GiftSearchApp />,
-    
+    <DogApp/>,
   document.getElementById('root')
 );
 
