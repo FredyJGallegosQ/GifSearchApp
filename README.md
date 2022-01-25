@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-## GiftSearchApp
+## DogApp-React
 - Fredy Gallegos Quiñones
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
